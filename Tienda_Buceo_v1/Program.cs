@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PruebaEquipoActimel
+namespace Tienda_Buceo_v1
 {
     static class Program
     {
